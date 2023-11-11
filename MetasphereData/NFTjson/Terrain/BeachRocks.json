@@ -1,0 +1,11 @@
+﻿{
+    "name": "Beach Rocks",
+    "description": "This is a terrain for your land NFT in Metasphere.",
+    "image": "https://github.com/IOTAplus/Metasphere/blob/main/MetasphereData/NFTpng/Terrain/Beach_Rocks_9_Albedo.png",
+    "attributes": [
+        {
+            "trait_type": "Max Supply",
+            "value": "100"
+        }
+    ]
+}
