@@ -1,7 +1,7 @@
 {
   "name": "Small Land",
   "description": "This is a terrain for your land NFT in Metasphere.",
-  "image": "https://sphere-hub.io/MetasphereData/NFTpng/Land/SmallLand.png",
+  "image": "https://raw.githubusercontent.com/IOTAplus/Metasphere/main/MetasphereData/NFTpng/Land/SmallLand.png",
   "attributes": [
     {
       "trait_type": "Max Supply",
