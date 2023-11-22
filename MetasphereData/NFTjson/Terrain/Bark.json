@@ -1,7 +1,7 @@
 {
   "name": "Bark",
   "description": "This is a terrain for your land NFT in Metasphere.",
-  "image": "MetasphereData/NFTpng/Terrain/Bark_1_Albedo.png",
+  "image": "https://MetasphereData/NFTpng/Terrain/Bark_1_Albedo.png",
   "attributes": [
     {
       "trait_type": "Max Supply",
